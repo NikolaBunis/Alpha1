@@ -1,28 +1,29 @@
 import java.util.Scanner;
 
-public class IfPrimeMethod {
+public class BiggestPrime {
 
-    public static void main (String[] args){
+    public static void main(String[] args) {
 
-Scanner in = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
-int N = in.nextInt();
+        int N = in.nextInt();
 
-
-if (primeCheck(N)){
-
-    System.out.printf("The Number " + N +  " is prime");
-
-}
-
-else {
-
-    System.out.println("The Number " + N +  " " +
-            "is not prime");
-}
+        System.out.println(biggestPrimeToNumber(N));
 
 
+    }
 
+    // this method iterates the numbers between 1 and the given number and returns the greatest
+    static int biggestPrimeToNumber(int number) {
+
+
+        for (int i = number; i >= 1; i--) {
+
+            if (primeCheck(i)) {
+return i; }
+
+        }
+return 1;
     }
 
     public static boolean primeCheck(int number){
@@ -54,5 +55,10 @@ else {
 
 
 
-
 }
+
+
+
+
+
+

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class SubsetOfSumS {
 
-    private static void fakeInput() {
+    public static void fakeInput() {
 
         String input =
                 "14\n" +
