@@ -9,19 +9,17 @@ public class Calcs {
 
         int M = 32;
 
-        System.out.println((int)Math.pow(N, 50));
+        System.out.println(2 % 2);
 
         String test1 = "rthi";
 
-        if (test1.substring(test1.length()-1, test1.length()).equals("hi")){
 
-            System.out.println(true);
-        }
-        else System.out.println(test1.substring(test1.length()-1, test1.length()));
+        StringBuilder builder = new StringBuilder();
 
+builder.append(test1.charAt(test1.length()-2));
+builder.append(test1.charAt(test1.length()-1));
 
-        System.out.println(test1.charAt(test1.length()-1));
-
+        System.out.println(builder);
     }
 
 }

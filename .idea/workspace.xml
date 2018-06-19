@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7602ab03-ec64-4c77-bc98-c9343fc67dc9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calcs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveBunnyEars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveBunnyEars2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveChangeXY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveCount7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveCount8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveCountHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveCountX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveFactorialTrailingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveNumbersToN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WildcardMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveAandBcombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveAllStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveArray11count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveArray220times10Lookup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveArray6lookup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveChangePi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveCount11inString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveCountAbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveCountHi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveCountPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveEndX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveExpressionsAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveNestParen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveNoX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursivePairStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveParenBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursivePathToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveStrCopiesCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveStrCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveStrDist30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveStringCleanRemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calcs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,32 +36,24 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Alpha1$RecursiveBracketCombinations.ic" NAME="RecursiveBracketCombinations Coverage Results" MODIFIED="1528289949499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Alpha1$RecursiveStrCopiesCount.ic" NAME="RecursiveStrCopiesCount Coverage Results" MODIFIED="1529259435124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Calcs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Calcs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="57" />
+            <state relative-caret-position="187">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecursiveChangeXY.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RecursiveChangeXY.java">
+      <file leaf-file-name="RecursiveLabyrinth.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RecursiveLabyrinth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecursiveCountX.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecursiveCountX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="-332">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -74,28 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SubsetOfSumS.java" />
-        <option value="$PROJECT_DIR$/src/NumbersTriangle.java" />
-        <option value="$PROJECT_DIR$/src/PrimesToN.java" />
-        <option value="$PROJECT_DIR$/src/NumbersToN.java" />
-        <option value="$PROJECT_DIR$/src/IfPrimeMethod.java" />
-        <option value="$PROJECT_DIR$/src/BiggestPrime.java" />
-        <option value="$PROJECT_DIR$/src/NonDivisibleNumbers.java" />
-        <option value="$PROJECT_DIR$/src/MinMaxSumAvarage.java" />
-        <option value="$PROJECT_DIR$/src/JoroTheRabbit.java" />
-        <option value="$PROJECT_DIR$/src/MinMaxSumAvg2.java" />
-        <option value="$PROJECT_DIR$/src/FactorialWithRecursion.java" />
-        <option value="$PROJECT_DIR$/src/RecursiveStringReverse.java" />
-        <option value="$PROJECT_DIR$/src/RecursiveLabyrinth.java" />
-        <option value="$PROJECT_DIR$/src/RecursiveBracketCombinations.java" />
-        <option value="$PROJECT_DIR$/src/RecursivePermutations.java" />
-        <option value="$PROJECT_DIR$/src/NumerologyRecursion.java" />
-        <option value="$PROJECT_DIR$/src/NumerologySolution.java" />
-        <option value="$PROJECT_DIR$/src/Numerology.java" />
-        <option value="$PROJECT_DIR$/src/NumerologyRecursive.java" />
-        <option value="$PROJECT_DIR$/src/MostFrequentNumber.java" />
-        <option value="$PROJECT_DIR$/src/JediMeditation.java" />
-        <option value="$PROJECT_DIR$/src/MatrixOfNumbers.java" />
         <option value="$PROJECT_DIR$/src/RecursiveFactorialSum.java" />
         <option value="$PROJECT_DIR$/src/RecursiveFactorialCalc.java" />
         <option value="$PROJECT_DIR$/src/RecursiveFibonacciMemoisation.java" />
@@ -123,14 +100,36 @@
         <option value="$PROJECT_DIR$/src/RecursiveCount7.java" />
         <option value="$PROJECT_DIR$/src/RecursiveCountX.java" />
         <option value="$PROJECT_DIR$/src/RecursiveCountHi.java" />
-        <option value="$PROJECT_DIR$/src/Calcs.java" />
         <option value="$PROJECT_DIR$/src/RecursiveChangeXY.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveChangePi.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveNoX.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveArray6lookup.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveArray11count.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveArray220times10Lookup.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveAllStar.java" />
+        <option value="$PROJECT_DIR$/src/RecursivePairStar.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveEndX.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveCountPairs.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveCount11inString.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveCountAbc.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveStringCleanRemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveCountHi2.java" />
+        <option value="$PROJECT_DIR$/src/parenBit.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveParenBit.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveNestParen.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveStrCount.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveStrCopiesCount.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveStrDist30.java" />
+        <option value="$PROJECT_DIR$/src/Calcs.java" />
+        <option value="$PROJECT_DIR$/src/RecursivePathToOne.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveAandBcombinations.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveExpressionsAgain.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="995" />
-    <option name="width" value="903" />
+    <option name="width" value="905" />
     <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -141,8 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,12 +156,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last.edited.regexp" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AlphaExamOne" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exam1Remix" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -179,29 +178,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RecursiveChangeXY">
+  <component name="RunManager" selected="Application.RecursiveExpressionsAgain">
     <configuration name="Calcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calcs" />
       <module name="Alpha1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RecursiveChangeXY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveChangeXY" />
+    <configuration name="RecursiveAandBcombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveAandBcombinations" />
       <module name="Alpha1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RecursiveCount8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveCount8" />
+    <configuration name="RecursiveExpressionsAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveExpressionsAgain" />
       <module name="Alpha1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RecursiveCountHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveCountHi" />
+    <configuration name="RecursivePathToOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursivePathToOne" />
       <module name="Alpha1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RecursiveCountX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveCountX" />
+    <configuration name="RecursiveStrDist30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveStrDist30" />
       <module name="Alpha1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -247,19 +246,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.RecursiveCount8" />
+      <item itemvalue="Application.RecursiveStrDist30" />
+      <item itemvalue="Application.RecursivePathToOne" />
       <item itemvalue="Application.Calcs" />
-      <item itemvalue="Application.RecursiveCountX" />
-      <item itemvalue="Application.RecursiveCountHi" />
-      <item itemvalue="Application.RecursiveChangeXY" />
+      <item itemvalue="Application.RecursiveAandBcombinations" />
+      <item itemvalue="Application.RecursiveExpressionsAgain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecursiveChangeXY" />
+        <item itemvalue="Application.RecursiveExpressionsAgain" />
+        <item itemvalue="Application.RecursiveAandBcombinations" />
+        <item itemvalue="Application.RecursivePathToOne" />
         <item itemvalue="Application.Calcs" />
-        <item itemvalue="Application.RecursiveCountHi" />
-        <item itemvalue="Application.RecursiveCountX" />
-        <item itemvalue="Application.RecursiveCount8" />
+        <item itemvalue="Application.RecursiveStrDist30" />
       </list>
     </recent_temporary>
   </component>
@@ -302,16 +301,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528898787254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Uploading more solved exercise problems as classes.">
+      <created>1529176811296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529176811296</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -322,17 +326,18 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15494792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15494792" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3988604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32193732" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3294271" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -346,7 +351,8 @@
     <MESSAGE value="Solutions with an attempt at explanations inside them." />
     <MESSAGE value="Complete version of the TwoSum problem from LeetCode with my own solution and explanations, no borrowed ideas." />
     <MESSAGE value="Testing HashMap, wicked fast.&#10;&#10;100ms with &quot;conventional&quot; tools&#10;&#10;7ms with HashMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing HashMap, wicked fast.&#10;&#10;100ms with &quot;conventional&quot; tools&#10;&#10;7ms with HashMap" />
+    <MESSAGE value="Uploading more solved exercise problems as classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading more solved exercise problems as classes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -856,16 +862,52 @@
           <option name="timeStamp" value="220" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Calcs.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="221" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RecursiveCountX.java</url>
           <line>36</line>
           <properties />
           <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="245" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/RecursiveStringReverse.java</url>
@@ -955,6 +997,110 @@
           </properties>
           <option name="timeStamp" value="224" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursivePairStar.java</url>
+          <line>20</line>
+          <properties class="RecursivePairStar" method="pairStar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveEndX.java</url>
+          <line>21</line>
+          <properties class="RecursiveEndX" method="endX">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveCountAbc.java</url>
+          <line>18</line>
+          <properties class="RecursiveCountAbc" method="countAbc">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveCount11inString.java</url>
+          <line>15</line>
+          <properties class="RecursiveCount11inString" method="count11">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveStringCleanRemoveDuplicates.java</url>
+          <line>19</line>
+          <properties class="RecursiveStringCleanRemoveDuplicates" method="stringClean">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveCountHi2.java</url>
+          <line>20</line>
+          <properties class="RecursiveCountHi2" method="countHi2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveParenBit.java</url>
+          <line>18</line>
+          <properties class="RecursiveParenBit" method="parenBit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveNestParen.java</url>
+          <line>21</line>
+          <properties class="RecursiveNestParen" method="nestParen">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveStrCount.java</url>
+          <line>19</line>
+          <properties class="RecursiveStrCount" method="strCount">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveStrCopiesCount.java</url>
+          <line>20</line>
+          <properties class="RecursiveStrCopiesCount" method="strCopies">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveStrDist30.java</url>
+          <line>24</line>
+          <properties class="RecursiveStrDist30" method="strDist">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursivePathToOne.java</url>
+          <line>64</line>
+          <properties class="RecursivePathToOne" method="pathToOne">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java</url>
+          <line>40</line>
+          <properties class="RecursiveExpressionsAgain" method="calculateTargetSums">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/RecursiveFibonacciMemoisation.java</url>
           <line>6</line>
@@ -962,166 +1108,10 @@
           <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="225" />
+      <option name="time" value="247" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MinMaxSumAvg2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinMaxSumAvarage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="61" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveStringReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SymetricArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BitShiftMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumbersTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="method#trianglePrinting#0;class#NumbersTriangle#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubsetOfSumS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursivePermutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumerologyRecursion.java" />
-    <entry file="file://$PROJECT_DIR$/src/JoroTheRabbit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumerologySolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/Numerology.java" />
-    <entry file="file://$PROJECT_DIR$/src/MostFrequentNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JediMeditation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="5" selection-start-line="97" selection-start-column="3" selection-end-line="164" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveFactorialCalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="3" selection-end-line="72" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveFactorialSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="3" selection-end-line="71" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TribonacciRecursive2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveFibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveFibonacciMemoisation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FactorialWithRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-238">
@@ -1143,9 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="53" column="6" selection-start-line="53" selection-start-column="4" selection-end-line="88" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,9 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1184,9 +1168,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#613#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1207,30 +1188,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Quadronacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="113" selection-start-line="113" selection-end-line="113" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveLabyrinth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="60" selection-start-line="32" selection-start-column="12" selection-end-line="34" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NumerologyRecursive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="62" column="29" selection-end-line="163" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1269,9 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
           <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1334,16 +1292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveCountHi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="4" selection-end-line="58" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#904#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RecursiveCountX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-340">
@@ -1351,17 +1299,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Calcs.java">
+    <entry file="file://$PROJECT_DIR$/src/RecursiveCountHi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="57" />
+        <state relative-caret-position="-238">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RecursiveChangeXY.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#3073#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveChangePi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="156" selection-start-line="1" selection-start-column="156" selection-end-line="1" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveNoX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="142" selection-start-line="1" selection-start-column="142" selection-end-line="1" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveArray6lookup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveArray11count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveArray220times10Lookup.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
+          <caret line="2" column="86" selection-start-line="2" selection-start-column="86" selection-end-line="2" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveAllStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="84" lean-forward="true" selection-start-line="27" selection-end-line="27" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveEndX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="81" selection-start-line="1" selection-start-column="81" selection-end-line="1" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursivePairStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" column="83" selection-start-line="1" selection-start-column="83" selection-end-line="1" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveCountAbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveStringCleanRemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveCount11inString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveCountHi2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="87" column="75" selection-start-line="87" selection-start-column="75" selection-end-line="87" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveStrCopiesCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="45" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveStrCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveParenBit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveStrDist30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="29" lean-forward="true" selection-start-line="91" selection-start-column="29" selection-end-line="91" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursivePathToOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveAandBcombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveExpressionsAgain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" selection-start-column="66" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calcs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quadronacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveCountPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveNestParen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveLabyrinth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
